@@ -1,0 +1,35 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <ul class="contact-list">
+          {%- if site.authors -%}
+          <li class="p-name"><b>Team Members:</b> {{ site.authors | escape }}</li>
+          {%- endif -%}
+          {%- if site.advisors -%}
+          <li><b>Project Advisors:</b> {{ site.advisors }}</li>
+          {%- endif -%}
+          {%- if site.email -%}
+          <li>{{ site.email }}</li>
+          {%- endif -%}
+          <li>
+            <a href="{{ site.repoURL }}">
+              <span class="icon icon--github">{% include icon-github.svg %}</span>
+              <span class="username">{{ site.repoName }}</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
