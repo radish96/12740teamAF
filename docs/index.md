@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<img src="/assets/group_photo1.jpg" alt="group in CEE lounge" width="500" height="370">
+<img src="group_photo1.jpg" alt="group in CEE lounge" width="500" height="370">
