@@ -33,4 +33,12 @@ Future Plan
 - The next step will be to connect some sort of visual indicator that will turn on at some threshold or binary value for each sensor. This visual indicator will most likely be an LED lighting up. 
 - Once we have successfully connected those components in a robust fashion, we will have to develop a testing area where we can collect data and implement our device.
 
-<img src="/12740teamAF/assets/motion_sound.jpeg" alt="motion and sound sensors" width="500" height="370">
+The following image shows the circuit connecting the sound and motion sensors. 
+
+<img src="/12740teamAF/assets/motion_sound.jpeg" alt="motion and sound sensors" width="600" height="370">
+
+The images below show the circuit incorporating the photosensitive sensor and also the raw data that was outputted when it was successfully connected. 
+
+<img src="/12740teamAF/assets/photosensitive.jpeg" alt="photosensitive sensors" width="600" height="370">
+
+<img src="/12740teamAF/assets/photosensitive_data.jpeg" alt="photosensitive data" width="600" height="370">
