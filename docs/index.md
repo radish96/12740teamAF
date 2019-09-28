@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<iframe src="https://player.vimeo.com/video/306083732" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<img src="group_photo1.jpg" alt="group in CEE lounge" width="500" height="600">
