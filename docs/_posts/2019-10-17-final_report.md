@@ -60,6 +60,6 @@ GND, is connected to ground, then VCC is connected to +5V
 
 <img src="/12740teamAF/assets/figure_17.png" alt="figure 17" width="700" height="500">
 
-<img src="/12740teamAF/assets/figure_18.png" alt="figure 18" width="550" height="200">
+<img src="/12740teamAF/assets/figure_18.png" alt="figure 18" width="550" height="250">
 
 <img src="/12740teamAF/assets/figure_19.png" alt="figure 19" width="650" height="200">
