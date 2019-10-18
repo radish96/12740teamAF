@@ -21,20 +21,24 @@ categories: [Weekly-Progress]
 
 <img src="/12740teamAF/assets/figure_8.jpg" alt="figure 8" width="200" height="100">
 
-<img src="/12740teamAF/assets/figure_9.png" alt="figure 9" width="600" height="400">
+<img src="/12740teamAF/assets/figure_9.png" alt="figure 9" width="700" height="400">
 
 <img src="/12740teamAF/assets/figure_10.png" alt="figure 10" width="500" height="350">
 
-<img src="/12740teamAF/assets/figure_11.png" alt="figure 11" width="600" height="300">
+<img src="/12740teamAF/assets/figure_11.png" alt="figure 11" width="700" height="300">
 
-<img src="/12740teamAF/assets/figure_12.png" alt="figure 12" width="600" height="250">
+<img src="/12740teamAF/assets/figure_12.png" alt="figure 12" width="700" height="250">
 
 <img src="/12740teamAF/assets/figure_13.png" alt="figure 13" width="600" height="250">
 
-<img src="/12740teamAF/assets/figure_14.png" alt="figure 14" width="600" height="300">
+<img src="/12740teamAF/assets/figure_14.png" alt="figure 14" width="550" height="300">
 
 <img src="/12740teamAF/assets/figure_15.png" alt="figure 15" width="600" height="200">
 
-<img src="/12740teamAF/assets/figure_16.png" alt="figure 16" width="600" height="450">
+<img src="/12740teamAF/assets/figure_16.png" alt="figure 16" width="700" height="450">
 
 <img src="/12740teamAF/assets/figure_17.png" alt="figure 17" width="600" height="500">
+
+<img src="/12740teamAF/assets/figure_18.png" alt="figure 18" width="650" height="300">
+
+<img src="/12740teamAF/assets/figure_19.png" alt="figure 19" width="650" height="200">
