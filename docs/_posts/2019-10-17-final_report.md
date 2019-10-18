@@ -4,35 +4,38 @@ title:  "Final Report"
 date:   2019-10-17 22:10:00 -0400
 categories: [Weekly-Progress]
 ---
-INTRODUCTION
+1. INTRODUCTION
 
 This research has been motivated by the humble and pure minds of Team AF in pursuit of the truth and knowledge to make the world and tomorrow better. Pedestrians, when crossing the street, need to be vigilant (using both eyesight and hearing), which is not inclusive towards elderly pedestrians or blind or deaf pedestrians. Pedestrian signals are always on even when pedestrians are not in the vicinity, which is a waste of energy. In an effort to reduce energy costs and make crossing streets easier for disabled or elderly pedestrians, we aim to improve pedestrian crossing lights by developing a new data acquisition system that will detect motion, sound, and light and transmit information to the pedestrian light.
 
-PROBLEM STATEMENT
+2. PROBLEM STATEMENT
 
 The aim of this project is to create an assistive sensor-based pedestrian signal that utilizes a combination of sound, PIR, photosensitive and vibration sensors to detect pedestrian motion and sounds and also passing cars so that the pedestrian signal gives the appropriate signal to either cross the road or wait. During times when no pedestrians are detected, the signal is off in order to save energy. 
 
-REVIEW OF SENSORS BEING UTILIZED
+3. REVIEW OF SENSORS BEING UTILIZED
 
-Sound Detection Sensor Module
+3.2 Sound Detection Sensor Module
 
-Physical Principles
+3.2.1 Physical Principles
 
 The Sound Detection sensor module has a built-in capacitive electret microphone which is highly sensitive to sound. Sound waves cause the thin film of the electret to vibrate and then the capacitance changes, thus producing the corresponding changed voltage, so it can detect the sound intensity in ambient environment. Since the change is extremely weak, it needs to be amplified. We use a LM393 as the power amplifier here. You can adjust the sensitivity by adjusting the Potentiometer. When the sound level exceeds the set point, an LED on the sensor module is illuminated and the output is sent low.
 Note: This sound sensor is used to detect whether there’s sound surround or not; it cannot recognize the frequency or volume.
 
-Sensor Characteristics
+3.2.2 Sensor Characteristics
 
 Specifications of sound detection sensor module:
-Working voltage: DC 3.3-5V
- Adjustable Sensitivity
-Dimensions: 32 x 17 mm
+- Working voltage: DC 3.3-5V
+- Adjustable Sensitivity
+- Dimensions: 32 x 17 mm
+
 Output in the form of digital switching outputs (0 and 1 high and low)
+
 The image and table below detail the controls, pin outs, and other key components.
 
 <img src="/12740teamAF/assets/figure_1.png" alt="figure 1" width="250" height="150">
 
 Figure 1. Sound sensor module
+
 GND, is connected to ground, then VCC is connected to +5V
 
 <img src="/12740teamAF/assets/figure_2.png" alt="figure 2" width="300" height="400">
