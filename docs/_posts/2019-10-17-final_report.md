@@ -227,10 +227,10 @@ We have a wide variety of ideas that we would implement given the chance to cont
 Finally, we would want to improve the prototype itself in a multitude of ways. The organization of the hardware is not very sophisticated given that all we had to build this project was small LEDs and jumper wires. In the future we would want to make this device more compact and organized so as to mimic an actual pedestrian and traffic signal better. In addition, we found especially towards the end that we never really did any research on the technology behind traffic signals themselves. In the future, it would be helpful to really understand the current state of traffic signals from a hardware perspective in order to optimize our own system and make sure it works by the governmental standards in place. 
 
 References:
-http://kookye.com/2018/11/06/arduino-lesson-sound-detection-sensor/
-http://kookye.com/2018/11/06/arduino-lesson-pir-motion-sensor/
-https://en.wikipedia.org/wiki/Photoresistor
-http://wiki.marioberges.com/courses/12-740/index.php?title=Main_Page
-(Note: Some information was also collected from the past projects of students who took the Data Acquisition course.)
-http://kookye.com/2018/11/16/arduino-lesson-water-sensor-2/
+- http://kookye.com/2018/11/06/arduino-lesson-sound-detection-sensor/
+- http://kookye.com/2018/11/06/arduino-lesson-pir-motion-sensor/
+- https://en.wikipedia.org/wiki/Photoresistor
+- http://wiki.marioberges.com/courses/12-740/index.php?title=Main_Page
+- (Note: Some information was also collected from the past projects of students who took the Data Acquisition course.)
+- http://kookye.com/2018/11/16/arduino-lesson-water-sensor-2/
 
