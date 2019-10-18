@@ -17,7 +17,7 @@ categories: [Weekly-Progress]
 
 <img src="/12740teamAF/assets/figure_6.jpg" alt="figure 6" width="450" height="200">
 
-<img src="/12740teamAF/assets/figure_7.png" alt="figure 7" width="200" height="100">
+<img src="/12740teamAF/assets/figure_7.png" alt="figure 7" width="150" height="100">
 
 <img src="/12740teamAF/assets/figure_8.jpg" alt="figure 8" width="200" height="100">
 
@@ -35,10 +35,10 @@ categories: [Weekly-Progress]
 
 <img src="/12740teamAF/assets/figure_15.png" alt="figure 15" width="600" height="200">
 
-<img src="/12740teamAF/assets/figure_16.png" alt="figure 16" width="700" height="450">
+<img src="/12740teamAF/assets/figure_16.png" alt="figure 16" width="600" height="450">
 
 <img src="/12740teamAF/assets/figure_17.png" alt="figure 17" width="600" height="500">
 
-<img src="/12740teamAF/assets/figure_18.png" alt="figure 18" width="650" height="300">
+<img src="/12740teamAF/assets/figure_18.png" alt="figure 18" width="650" height="200">
 
 <img src="/12740teamAF/assets/figure_19.png" alt="figure 19" width="650" height="200">
